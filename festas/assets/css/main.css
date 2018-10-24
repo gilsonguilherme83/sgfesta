@@ -2000,6 +2000,12 @@ input, select, textarea {
 			.wrapper.style1 h1, .wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6, .wrapper.style1 strong, .wrapper.style1 b, .wrapper.style1 a {
 				color: #fff;
 			}
+			
+			.wrapper.style1 span{
+			font-family: 'Source Sans Pro', sans-serif !important;
+				//background: #000;
+				//color: #fff;
+			}
 
 		.wrapper.style2 {
 			background: #fff;
@@ -2009,6 +2015,8 @@ input, select, textarea {
 				background: #fff;
 				color: #484d55;
 			}
+			
+			
 
 		.wrapper.style3 {
 			background: #f3f3f3 url("images/overlay.png");
@@ -3155,7 +3163,7 @@ input, select, textarea {
 				}
 
 				#logo p {
-					margin: 1.25em 0 0 0;
+					margin: 0.25em 0 0 0;
 					display: block;
 					letter-spacing: 0.2em;
 					font-size: 0.9em;
