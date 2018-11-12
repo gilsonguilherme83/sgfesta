@@ -2,24 +2,36 @@
     "name": "Decore Minha Festa",
     "short_name": "DMF",
     "icons": [{
-       "src": "images/dmf.png",
+        "src": "images/decore.png",
+        "sizes": "16x16",
+        "type": "image/png"
+      }, {
+        "src": "images/decore.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      }, {
+        "src": "images/decore.png",
+        "sizes": "64x64",
+        "type": "image/png"
+      }, {
+       "src": "images/decore.png",
         "sizes": "128x128",
         "type": "image/png"
       }, {
-        "src": "images/dmf.png",
+        "src": "images/decore.png",
         "sizes": "144x144",
         "type": "image/png"
       }, {
-        "src": "images/dmf.png",
+        "src": "images/decore.png",
         "sizes": "152x152",
         "type": "image/png"
       }, {
-        "src": "images/dmf.png",
+        "src": "images/decore.png",
         "sizes": "192x192",
         "type": "image/png"
       },
       {
-        "src": "images/dmf.png",
+        "src": "images/decore.png",
         "sizes": "512x512",
         "type": "image/png"
       }
