@@ -3,7 +3,29 @@ var filesToCache = [
   '/',
   '/index.html',
   '/todos.html',
-  '/main.css'
+  '/main.css',
+  '/imagens/a.jpg',
+  '/imagens/b.jpg',
+  '/imagens/c.jpg',
+  '/imagens/d.jpg',
+  '/imagens/e.jpg',
+  '/imagens/f.jpg',
+  '/imagens/g.jpg',
+  '/imagens/h.jpg',
+  '/imagens/i.jpg',
+  '/imagens/k.jpg',
+  '/imagens/l.jpg',
+  '/imagens/m.jpg',
+  '/imagens/n.jpg',
+  '/imagens/o.jpg',
+  '/imagens/p.jpg',
+  '/imagens/q.jpg',
+  '/imagens/r.jpg',
+  '/imagens/s.jpg',
+  '/imagens/t.jpg',
+  '/imagens/u.jpg',
+  '/imagens/v.jpg',
+  '/imagens/x.jpg'
 ];
 self.addEventListener('install', function(e) {
   console.log('[ServiceWorker] Install');
