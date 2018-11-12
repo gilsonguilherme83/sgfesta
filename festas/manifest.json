@@ -1,12 +1,12 @@
 {
-    "name": "Hello World PWA",
-    "short_name": "Hi",
+    "name": "Decore Minha Festa",
+    "short_name": "DMF",
     "icons": [{
-      "src": "images/dmf.png",
+       "src": "images/dmf.png",
         "sizes": "128x128",
         "type": "image/png"
       }, {
-        "src": "iimages/dmf.png",
+        "src": "images/dmf.png",
         "sizes": "144x144",
         "type": "image/png"
       }, {
